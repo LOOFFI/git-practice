@@ -1,0 +1,3 @@
+Name: looffi  
+Age: 39
+Favourite color: red
